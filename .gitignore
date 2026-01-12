@@ -1,0 +1,25 @@
+# Local environments and tooling
+/micromamba/
+/bin/
+
+# Optional local clones
+/sam3/
+
+# Generated files
+/requirements.objects.filtered.txt
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+*.log
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
