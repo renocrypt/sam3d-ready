@@ -1,0 +1,32 @@
+[
+  {
+    "index": 1,
+    "src": "IMG_0313.HEIC",
+    "dst": "images/1.jpg"
+  },
+  {
+    "index": 2,
+    "src": "IMG_0314.HEIC",
+    "dst": "images/2.jpg"
+  },
+  {
+    "index": 3,
+    "src": "IMG_0315.HEIC",
+    "dst": "images/3.jpg"
+  },
+  {
+    "index": 4,
+    "src": "IMG_0316.HEIC",
+    "dst": "images/4.jpg"
+  },
+  {
+    "index": 5,
+    "src": "IMG_0317.HEIC",
+    "dst": "images/5.jpg"
+  },
+  {
+    "index": 6,
+    "src": "IMG_0318.HEIC",
+    "dst": "images/6.jpg"
+  }
+]

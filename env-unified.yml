@@ -1,4 +1,4 @@
-name: sam3d-unified
+name: mv-sam3d-unified
 channels:
   - conda-forge
 dependencies:

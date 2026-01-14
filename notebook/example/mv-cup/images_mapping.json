@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "src": "IMG_0305.HEIC",
+    "dst": "images/1.jpg"
+  },
+  {
+    "index": 2,
+    "src": "IMG_0306.HEIC",
+    "dst": "images/2.jpg"
+  },
+  {
+    "index": 3,
+    "src": "IMG_0307.HEIC",
+    "dst": "images/3.jpg"
+  },
+  {
+    "index": 4,
+    "src": "IMG_0308.HEIC",
+    "dst": "images/4.jpg"
+  },
+  {
+    "index": 5,
+    "src": "IMG_0309.HEIC",
+    "dst": "images/5.jpg"
+  },
+  {
+    "index": 6,
+    "src": "IMG_0310.HEIC",
+    "dst": "images/6.jpg"
+  },
+  {
+    "index": 7,
+    "src": "IMG_0311.HEIC",
+    "dst": "images/7.jpg"
+  },
+  {
+    "index": 8,
+    "src": "IMG_0312.HEIC",
+    "dst": "images/8.jpg"
+  }
+]
